@@ -1,2 +1,7 @@
 # COVID-19 Data Mining
-MLDM Assignment
+MLDM Case Study
+
+Analysis Planned 
+- SEIR
+- Regression
+- LSTM
