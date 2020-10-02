@@ -4,4 +4,4 @@ MLDM Case Study
 Analysis Planned 
 - SEIR
 - Regression
-- LSTM
+- LSTM(Tentative)
