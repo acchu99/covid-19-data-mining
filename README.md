@@ -4,4 +4,4 @@ Analysis and forecast done using:
 - ARIMA (Time series model)
 - LSTM (Neural network model)
 
-Detailed report is presented in the final report folder in a breif ppt format and a detialed pdf format . 
+Detailed report is presented in the 'Final Report' folder in a brief ppt format and a detialed pdf format . 
